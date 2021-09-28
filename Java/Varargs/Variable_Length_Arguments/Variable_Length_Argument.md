@@ -105,7 +105,7 @@ In JDK5, Java has included a feature the reduces and simplifies the code for a m
    
 ## THINGS TO BE TAKEN CARE OF WHILE WRITING A VARARG FUNCTION
  
-   **1.There can be only one variable argument in a function**
+   **1. There can be only one variable argument in a function**
    
    example code-
    
@@ -120,7 +120,7 @@ In JDK5, Java has included a feature the reduces and simplifies the code for a m
        
    
     
-  **2.Variable argument must be the last argument.**
+  **2.The Variable argument must be the last argument.**
    
   example code-
   
